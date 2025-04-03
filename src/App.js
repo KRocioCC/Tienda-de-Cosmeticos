@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import DataProvider from './componentes/Context/DataContext';
+import Home from './componentes/Home/Home';
+import CartContent from './componentes/CartContent/CartContent';
+import Login from './componentes/Login/LoginForm'; // Asegúrate de que la ruta de importación sea correcta
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <DataProvider>
+      <BrowserRouter>
+        <Routes>
+          
+          {/* renderizando componentes */}
+          <Route path="/" element={<Home />} />
+          {/* para el carrito */}
+          <Route path="/cart" element={<CartContent />} />
+          
+          <Route path="/LoginForm" element={<Login />} />
+        </Routes>
+      </BrowserRouter>
+    </DataProvider>
   );
 }
 

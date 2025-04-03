@@ -1,0 +1,60 @@
+/* NAVBAR */
+.nav-container {
+    position: sticky;
+    
+    width: 100%;
+    top: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 18vh;
+    background-color: rgb(202, 160, 197);
+}
+
+.navbar-logo {
+    width: 60px;
+    height: auto;
+}
+
+.navbar-logo {
+    justify-self: start;
+    margin-left: 20px;
+    color: white;
+    margin-top: 4vh;
+    cursor: pointer;
+}
+
+.seeCarrito {
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 4vh;
+    color: aliceblue;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.titulo {
+    display: flex;
+    margin: 0;
+    text-align: left; 
+    /* Asegúrate de que no haya margen entre los títulos */
+}
+
+/* Estilos CSS para el botón */
+.boton-inicio-sesion {
+    background-color: #007bff; /* Color de fondo azul */
+    color: #fff; /* Color de texto blanco */
+    border: none; /* Quitar el borde predeterminado */
+    padding: 10px 20px; /* Añadir relleno */
+    border-radius: 5px; /* Redondear las esquinas */
+    cursor: pointer; /* Indicar que es un botón */
+    font-size: 16px; /* Tamaño de la fuente */
+    text-decoration: none; /* Quitar la decoración del enlace */
+  }
+  
+  .boton-inicio-sesion:hover { /* Estilo al pasar el cursor sobre el botón */
+    background-color: #0056b3; /* Color de fondo azul más oscuro */
+  }

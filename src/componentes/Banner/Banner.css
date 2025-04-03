@@ -1,0 +1,41 @@
+.banner {
+    background-image: url('../../imagenes/banner.jpeg');
+    /* Ruta de tu imagen de fondo */
+    background-size: cover;
+    /* Ajusta la imagen para que cubra todo el banner */
+    background-position: center;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    height: 700px;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+    color: white;
+    
+}
+
+.banner-container {
+    text-align: center;
+}
+
+.banner h1 {
+    margin: 0;
+    text-align: left;
+    font-size: 5.5rem;
+}
+
+.banner p {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold; 
+}
+
+.Jikie {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    font-size: 20.2rem;
+    color: #e849cd;
+    font-weight: bold;
+}

@@ -1,0 +1,61 @@
+[
+    
+    {
+        
+        "id": 1,
+        "name": "LABIAL MALBELLINE",
+        "description": "FABULOUS KISS LIPSTICK SATIN (LABIAL EFECTO SATINADO)",
+        "price": 10,
+        "img": "https://www.uomax.com.ar/11705-medium_default/labial-superstay-vinyl-ink-unrivaled-30-maybelline.jpg"
+    },
+    {
+        "id": 2,
+        "name": "DAZZLE",
+        "description": "LE GLITTY LID BRONZE (DELINEADOR LÍQUIDO PARA OJOS",
+        "price": 15,
+        "img": "https://th.bing.com/th/id/OIP.AtQU-EkeVioSOPwRnEiTRQHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 3,
+        "name": "BENEFIT COSMETICS",
+        "description": "HIGHLIGHT REBOOT LIQUID DEW-LA-LA (ILUMINADOR LÍQUIDO)",
+        "price": 20,
+        "img": "https://th.bing.com/th/id/OIP.OV8cWo47VEl1vXtrmGVjAAHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 4,
+        "name": "FENTY BEAUTY",
+        "description": "SOFT'LIT NATURALLY LUMINOUS LONGWEAR FOUNDATION (BASE DE MAQUILLAJE PARA ROSTRO)",
+        "price": 25,
+        "img": "https://th.bing.com/th/id/OIF.6NTbeXiei6HEgpKWXrXEyg?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 5,
+        "name": "ANASTASIA BEVERLY HILLS",
+        "description": "PRO PIGMENT PALETTE VOL. 1 (PALETA DE SOMBRAS PARA OJOS)",
+        "price": 30,
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.e-deala.com%2F700045%2F001.jpg&f=1&nofb=1&ipt=20e0c87e4cac7d9c906a43f324a1f0ad3f20e09dbc23efc90b612f878b1efc13&ipo=images"
+    },
+    {
+        "id": 6,
+        "name": "MAC COSMETICS",
+        "description": "POWDER KISS SOFT MATTE EYE SHADOW (SOMBRA DE OJOS)",
+        "price": 35,
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffarmacityar.vteximg.com.br%2Farquivos%2Fids%2F215025-600-600%2F224214_polvo-de-maquillaje-maybelline-city-bronzer-x-8-g_imagen-3.jpg%3Fv%3D637675044724000000&f=1&nofb=1&ipt=f75c32c045e452e624dfbda7485f1ff01f040b01c9e9c5e8a1bf502e0de23e53&ipo=images"
+    },
+    {
+        "id": 7,
+        "name": "CLOE CARE",
+        "description": "KIT FACIAL MIXTO MULTICOLOR (KIT PARA PROTECCIÓN SOLAR Y CUIDADO PERSONAL)",
+        "price": 40,
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.9mpIfW7iDJ7wVG562BFAsQHaIX%26pid%3DApi&f=1&ipt=a4d165d2694673b39197a4a78302a8e4d78fe8bbff324074c98c3ee354fec336&ipo=images"
+    },
+    {
+        "id": 8,
+        "name": "ST. TROPEZ",
+        "description": "BROW & LASH STYLING KIT (KIT DE MAQUILLAJE PARA CEJAS Y PESTAÑAS)",
+        "price": 45,
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcazaofertas.com.ar%2Fwp-content%2Fuploads%2F2016%2F07%2Frevlon-2x1.jpg&f=1&nofb=1&ipt=bb4f2ca97b5d48cdeeb88c02d3e0190d08eb71a0f77ee35e76dfd4d5e96fa1d2&ipo=images"
+    }
+]
+

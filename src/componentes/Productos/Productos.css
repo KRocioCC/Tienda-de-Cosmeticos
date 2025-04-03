@@ -1,0 +1,60 @@
+.productos-card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 50px;
+    text-align: center;
+}
+
+.card {
+    width: 250px; /* Ancho fijo para las tarjetas */
+    height: auto; /* Ajustar la altura según el contenido */
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Bordes redondeados */
+    overflow: hidden; /* Asegura que el contenido no se salga de la tarjeta */
+    background-color: #fff; /* Color de fondo de la tarjeta */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para dar efecto de elevación */
+    margin: 20px; /* Espaciado entre tarjetas */
+    transition: transform 0.3s, box-shadow 0.3s; /* Transición para suavizar el cambio */
+}
+
+.card:hover {
+    transform: scale(0.85); /* Reduce significativamente el tamaño de la tarjeta */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Aumenta la sombra para mayor efecto de elevación */
+}
+
+.card img {
+    width: 100%; /* La imagen ocupará todo el ancho de la tarjeta */
+    height: 250px; /* Altura fija para las imágenes */
+    object-fit: cover; /* Ajusta la imagen para que ocupe todo el espacio definido */
+    border-bottom: 1px solid #ccc; /* Línea de separación */
+}
+
+.card h3 {
+    font-size: 1.2rem;
+    margin: 10px 0; /* Espaciado superior e inferior */
+}
+
+.card h4 {
+    margin: 5px 0; /* Espaciado superior e inferior */
+    font-size: 1rem; /* Tamaño de fuente moderado */
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    background-color: #ea0e92;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+

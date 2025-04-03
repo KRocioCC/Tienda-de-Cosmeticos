@@ -1,0 +1,5 @@
+.footer-container {
+  display: flex;
+  justify-content: center; /* Alinea los elementos horizontalmente al centro */
+  align-items: center; /* Alinea los elementos verticalmente al centro */
+}

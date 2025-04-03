@@ -17,7 +17,7 @@ Este proyecto se desarrolló utilizando **Figma**, **JavaScript** y **React**. S
 
 <img width="1410" alt="Captura de Pantalla 2025-04-03 a la(s) 10 25 45" src="https://github.com/user-attachments/assets/bac78e7a-3c0c-436f-928e-afb9df6818a5" />
 
-![fondo](capturas_web/img_two.png)
+![fondo](Tienda_de_cosmeticos/capturas_web/img_two.png)
 
 
 

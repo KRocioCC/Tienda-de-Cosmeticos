@@ -1,14 +1,14 @@
 /* Global Styles */
 body {
   font-family: "Prompt", sans-serif;
-  color: rgb(224, 52, 196);
+  color: rgb(8, 7, 8);
   background: linear-gradient(
     30deg,
     rgb(240, 60, 150),
-    rgb(228, 14, 185),
-    rgb(18, 59, 184),
-    rgb(145, 24, 114),
-    rgb(121, 19, 92)
+    rgb(241, 181, 229),
+    rgb(108, 129, 193),
+    rgb(218, 104, 190),
+    rgb(241, 93, 199)
   );
   margin: 0;
   height: 100vh;
